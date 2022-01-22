@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markcharlessmith
-- 👀 I’m interested in software engineering, blockchain engineering, and music.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on projects using JavaScript, HTML, and CSS.
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 How to reach me: markcharlessmith@gmail.com
 
 <!---
