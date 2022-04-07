@@ -1,11 +1,11 @@
 <h2>Hello there, I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&vCenter=true&height=24&lines=Welcome+to+my+Github!;Glad+to+see+you+here!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&vCenter=true&height=24&lines=Welcome+to+my+GitHub profile!;Glad+to+see+you+here!)
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](markcharlessmith@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-charles-smith)
 
-### I am a full-stack software engineer, who is passionate about building useful applications, tackling complex problems, contributing to open-source projects and working with new technologies. I spend my free time hiking in the Eastern Sierra, and composing music for classical guitar/piano. 
+### I am a full-stack software engineer, passionate about building useful applications, tackling complex problems, contributing to open-source projects and working with new technologies. I spend my free time hiking in the Eastern Sierra, composing music for classical guitar/piano, and collecting succulents. 
 
 ## 🛠 Languages, Frameworks, and Tools
 
