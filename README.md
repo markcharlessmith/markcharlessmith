@@ -42,6 +42,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markcharlessmith&layout=compact&theme=dark)](https://github.com/markcharlessmith/github-readme-stats)
 
-[![markcharlessmith's github activity graph](https://activity-graph.herokuapp.com/graph?username=markcharlessmith&theme=react-dark)](https://github.com/arishoham/github-readme-activity-graph)
+[![markcharlessmith's github activity graph](https://activity-graph.herokuapp.com/graph?username=markcharlessmith&theme=react-dark)](https://github.com/markcharlessmith/github-readme-activity-graph)
 
 </details>
