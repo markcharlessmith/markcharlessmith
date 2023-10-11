@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-charles-smith)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://markcharlessmith.io/)
 
-### I'm a Los Angeles-based software engineer working in React and Node.js/Express. I'm passionate about building useful applications, tackling complex problems, contributing to open-source projects and working with new technologies. I spend my free time hiking in the Eastern Sierra, composing music for classical guitar/piano, and collecting succulents. 
+### I'm a Los Angeles-based software engineer specializing in TypeScript, React, and Node.js/Express. I'm passionate about building useful applications, tackling complex problems, contributing to open-source projects and working with new technologies. I spend my free time hiking in the Eastern Sierra, composing music for classical guitar/piano, and collecting succulents. 
 
 ## 🛠 Languages, Frameworks, and Tools
 
